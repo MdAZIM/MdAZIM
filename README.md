@@ -1,7 +1,8 @@
-### Hi there 👋
-
-
-**MdAZIM/MdAZIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> Hi there 👋 I'm Azim Uddin </h1>
+<h3 align="center">A passionate Security Engineer who always loved to defend from cyber attack</h3>
+<br>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Cybersecurity+Git" /> </p>
+<br>
 
 Here are some ideas to get you started:
 
@@ -11,8 +12,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  <!--😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MdAZIM&show_icons=true&locale=en&layout=compact&theme=algolia" alt="mohamedaymansaid" /></p>
 
