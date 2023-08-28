@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=MdAZIM&show_icons=true&locale=en&theme=radical" alt="lutfunnahar" height="139"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MdAZIM&theme=radical" alt="AZIM" height="139" /></p>
 
-## 🐍 A Snake Eating my Contributions Graph
+## 🐍 A Snake Eating my all Git Contributions
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/><br>
 </p>
