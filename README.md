@@ -1,4 +1,8 @@
-<h1 align="center"> Hi there 👋 I'm Azim Uddin </h1>
+<h1 align="center"> Hi there <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> I'm Azim Uddin </h1>
+<div align="center" width="50">
+
+
+</div>
 <h3 align="center">A passionate Security Engineer who always loved to defend from cyber attack</h3>
 <br>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Cybersecurity+Git" /> </p>
